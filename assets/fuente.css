@@ -30,13 +30,16 @@
 }
 
 @media all and (min-width: 1200px) {
-  .articulo > p {
-    margin-right: 9.5em;
+  .articulo {
+    margin-left: 2em;
+    margin-right: 7.5em;
   }
 }
 
 .articulo-title {
   margin-bottom: 0.25rem;
+  font-weight: bold;
+  font-family: Palatino, serif;
 }
 
 .articulo-meta {
