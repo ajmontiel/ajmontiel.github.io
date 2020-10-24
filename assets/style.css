@@ -1,0 +1,77 @@
+.logo {
+  height: 1.5rem;
+}
+
+.slogan {
+  cursor: default;
+  font-family: Palatino, serif;
+  font-style: italic;
+}
+
+.test {
+  background-color: #39322B;
+}
+
+body {
+  background-color: #f6f3e9;
+}
+
+.info {
+  background-color: #DDD;
+}
+
+.nav-scroller {
+  position: relative;
+  z-index: 2;
+  height: 2.75rem;
+  overflow-y: hidden;
+}
+
+.nav-scroller .nav {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  padding-bottom: 1rem;
+  margin-top: -1px;
+  overflow-x: auto;
+  text-align: center;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.nav-scroller {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+@media all and (max-width: 768px) {
+  .margenup {
+    margin-top: 2rem;
+  }
+  .slogan {
+    font-size: 0.8rem;
+  }
+  .logo {
+  height: 1.3rem;
+  }
+}
+
+.pie {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #39322B;
+  border-top: 0.05rem solid #e5e5e5;
+}
+
+.pie p:last-child {
+  margin-bottom: 0;
+}
+
+.contacto {
+  display: inline-block; 
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
