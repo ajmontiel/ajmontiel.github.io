@@ -29,7 +29,6 @@ body {
 .scaps {
   font-variant: small-caps;
   font-family: Rosarivo;
-  font-weight: bold;
 }
 
 .logo {
@@ -72,6 +71,7 @@ body {
 .nav-scroller {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+  font-size: 1.3rem;
 }
 
 @media all and (max-width: 768px) {
@@ -118,6 +118,7 @@ body {
 }
 
 .pie {
+  font-size: 1.1rem;
   padding: 2.5rem 0;
   color: #999;
   text-align: center;
