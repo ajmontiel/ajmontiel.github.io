@@ -107,12 +107,13 @@ body {
   border-top: 0.05rem solid #e5e5e5;
 }
 
-.pie p:last-child {
-  margin-bottom: 0;
-}
-
 .contacto {
   display: inline-block; 
   text-align: left;
   margin-bottom: 0.5rem;
+}
+
+.prueba {
+  background-color: #f6f3e9;
+  font-size: 1.2rem;
 }
