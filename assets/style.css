@@ -40,10 +40,6 @@ body {
   font-style: italic;
 }
 
-.test {
-  background-color: #39322B;
-}
-
 .info {
   background-color: #DDD;
 }
@@ -58,9 +54,6 @@ body {
   }
   .slogan {
     font-size: 1rem;
-  }
-  .logo {
-  height: 1.3rem;
   }
   .nav-scroller {
   font-size: 1.1rem;
@@ -113,6 +106,14 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.test {
+  background-color: #39322B;
+}
+
 .prueba {
   background-color: #f6f3e9;
+}
+
+.foto {
+  max-height: 300px;
 }
