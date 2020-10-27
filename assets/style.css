@@ -52,6 +52,9 @@ body {
   .margenup {
     margin-top: 2rem;
   }
+  .logo {
+  height: 1.3rem;
+  }
   .slogan {
     font-size: 1rem;
   }
