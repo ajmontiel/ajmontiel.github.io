@@ -48,6 +48,10 @@ body {
   font-size: 1.3rem;
 }
 
+.foto {
+  max-height: 295px;
+}
+
 @media all and (max-width: 768px) {
   .margenup {
     margin-top: 2rem;
@@ -61,6 +65,13 @@ body {
   .nav-scroller {
   font-size: 1.1rem;
   }
+  .foto {
+  max-height: 215px;
+  }
+  .mcent {
+    text-align: center;
+  }
+
 }
 
 .articulo > p {
@@ -103,7 +114,6 @@ body {
   color: #999;
   text-align: center;
   background-color: #39322B;
-  border-top: 0.05rem solid #e5e5e5;
 }
 
 .contacto {
@@ -114,12 +124,4 @@ body {
 
 .test {
   background-color: #39322B;
-}
-
-.prueba {
-  background-color: #f6f3e9;
-}
-
-.foto {
-  max-height: 300px;
 }
