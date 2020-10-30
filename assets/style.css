@@ -1,127 +1,149 @@
 @font-face {
-  font-family: Cardo;
-  src: url(font/cardo-regular.woff);
+    font-family: Roboto;
+    src: url(font/roboto.woff);
 }
 
 @font-face {
-  font-family: Cardo;
-  src: url(font/cardo-italic.woff);
-  font-style: italic;
+    font-family: Roboto;
+    src: url(font/roboto-italic.woff);
+    font-style: italic;
 }
 
 @font-face {
-  font-family: Cardo;
-  src: url(font/cardo-700.woff);
-  font-weight: bold;
+    font-family: Roboto;
+    src: url(font/roboto-bold.woff);
+    font-weight: bold;
 }
 
 @font-face {
-  font-family: Rosarivo;
-  src: url(font/rosarivo-regular.woff);
+    font-family: Roboto;
+    src: url(font/roboto-bold-italic.woff);
+    font-weight: bold;
+    font-style: italic;
 }
+
+@font-face {
+    font-family: Cardo;
+    src: url(font/cardo-regular.woff);
+}
+
+@font-face {
+    font-family: Cardo;
+    src: url(font/cardo-italic.woff);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Rosarivo;
+    src: url(font/rosarivo-regular.woff);
+}
+
 
 body {
-  background-color: #f6f3e9;
+    background-color: #f6f3e9;
+    font-family: Roboto;
 }
 
 .scaps {
-  font-variant: small-caps;
-  font-family: Rosarivo;
+    font-variant: small-caps;
+    font-family: Rosarivo;
 }
 
 .logo {
-  height: 1.5rem;
+    height: 1.5rem;
 }
 
 .slogan {
-  cursor: default;
-  font-family: Cardo;
-  font-size: 1.2rem;
-  font-style: italic;
+    cursor: default;
+    font-family: Cardo;
+    font-size: 1.2rem;
+    font-style: italic;
 }
 
 .info {
-  background-color: #DDD;
+    background-color: #DDD;
 }
 
 .nav-scroller {
-  font-size: 1.3rem;
+    font-size: 1.3rem;
 }
 
 .foto {
-  max-height: 295px;
+    max-height: 295px;
 }
 
 @media all and (max-width: 768px) {
-  .margenup {
-    margin-top: 2rem;
-  }
-  .logo {
-  height: 1.3rem;
-  }
-  .slogan {
-    font-size: 1rem;
-  }
-  .nav-scroller {
-  font-size: 1.1rem;
-  }
-  .foto {
-  max-height: 215px;
-  }
-  .mcent {
-    text-align: center;
-  }
+    .margenup {
+        margin-top: 2rem;
+    }
+
+    .logo {
+        height: 1.3rem;
+    }
+
+    .slogan {
+        font-size: 1rem;
+    }
+
+    .nav-scroller {
+        font-size: 1.1rem;
+    }
+
+    .foto {
+        max-height: 215px;
+    }
+
+    .mcent {
+        text-align: center;
+    }
 
 }
 
-.articulo > p {
+.articulo>p {
     font-family: Cardo;
     font-size: 1.2rem;
     margin-bottom: 1.3em;
 }
 
 .lnota {
-  width: 50%;
-  margin-left: 0;
-  background-color: black;
+    width: 50%;
+    margin-left: 0;
+    background-color: black;
 }
 
 .nota {
-  font-size: 0.7rem;
+    font-size: 0.7rem;
 }
 
 @media all and (min-width: 1200px) {
-  .articulo {
-    margin-left: 3.5em;
-    margin-right: 7.6em;
-  }
-  .mleft {
-    margin-left: 3.5em;
-  }
+    .articulo {
+        margin-left: 3.5em;
+        margin-right: 7.6em;
+    }
+
+    .mleft {
+        margin-left: 3.5em;
+    }
 }
 
 .articulo-title {
-  margin-bottom: 0.25rem;
+    margin-bottom: 0.25rem;
 
-}
-
-.articulo-meta {
-  color: #999;
 }
 
 .pie {
-  padding: 2.5rem 0;
-  color: #999;
-  text-align: center;
-  background-color: #39322B;
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #39322B;
 }
 
 .contacto {
-  display: inline-block; 
-  text-align: left;
-  margin-bottom: 0.5rem;
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 0.5rem;
 }
 
 .test {
-  background-color: #39322B;
+    background-color: #39322B;
 }
