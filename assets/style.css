@@ -122,8 +122,8 @@ body {
     background-color: black;
 }
 
-.nota {
-    font-size: 0.7rem;
+.articulo .nota {
+    font-size: 0.9rem;
 }
 
 @media all and (min-width: 1200px) {
