@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="28.582193mm"
-   height="5.4143982mm"
-   viewBox="0 0 28.582193 5.4143982"
+   width="189.0775mm"
+   height="39.420799mm"
+   viewBox="0 0 189.0775 39.420799"
    version="1.1"
    id="svg8">
   <defs
@@ -26,34 +26,34 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(-75.129774,-104.84068)">
+     transform="translate(-80.362832,-104.16936)">
     <g
-       aria-label="livres"
+       aria-label="LIVRES"
        id="text12"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
       <path
-         d="m 75.452235,110.25507 q -0.148828,-0.0992 -0.322461,-0.19843 0,-0.24805 0.04961,-1.0418 0.04961,-0.79375 0.148828,-3.96875 0.148828,-0.0248 0.446484,-0.0248 0.124024,0.29766 0,0.62012 -0.07441,2.72852 -0.07441,3.22461 0,0.47129 0.07441,0.69453 0.148828,0.0496 1.488282,0 1.364257,-0.0744 1.711523,-0.0496 0,0.14883 0,0.32246 0.02481,0.14883 0.02481,0.29766 -0.892969,0.0248 -1.785938,0.0744 -0.868164,0.0248 -1.761133,0.0496 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 80.362832,104.62656 h 18.8468 v 1.524 h -5.9944 v 35.2552 h 8.635998 q 2.1336,0 3.7592,-0.8636 1.6764,-0.9144 2.8448,-2.3876 1.1684,-1.524 1.778,-3.5052 0.6096,-1.9812 0.6604,-4.1656 h 2.032 v 12.446 H 80.362832 v -1.524 h 4.826 v -35.2552 h -4.826 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="path14" />
       <path
-         d="m 81.107704,109.61015 q -0.04961,-0.0248 -0.07441,-0.0496 -0.02481,-0.0496 -0.04961,-0.0992 -0.02481,-0.96738 -0.04961,-1.95957 0,-1.01699 0,-2.03398 0.09922,0 0.198438,0 0.09922,0 0.223242,0 0.04961,0.0992 0.148828,0.24805 0,0.96738 0.04961,1.93476 0.07441,0.96738 -0.07441,1.88516 -0.09922,0.0248 -0.198437,0.0496 -0.09922,0.0248 -0.173633,0.0248 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 114.95762,104.62656 h 17.8308 v 1.524 h -4.9784 v 35.2552 h 4.9784 v 1.524 h -17.8308 v -1.524 h 4.826 v -35.2552 h -4.826 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="path16" />
       <path
-         d="m 84.307509,109.98222 q -0.04961,0 -0.09922,-0.0248 -0.02481,-0.0248 -0.04961,-0.0496 0,-0.17363 -0.02481,-0.34727 0,-0.19844 0,-0.37207 -0.79375,-2.08359 -1.041797,-2.72851 -0.223242,-0.66973 -0.37207,-1.017 0,-0.5457 0.520898,-0.34726 0.272852,0.96738 0.595313,1.88515 0.347265,0.91778 0.669726,1.81075 0,0 0.09922,0.0496 0.967383,-1.43868 2.00918,-3.34864 0.09922,-0.71933 0.694531,-0.64492 -0.04961,0.59531 -0.496094,1.43867 -0.446484,0.84336 -0.868164,1.21543 -0.669726,1.16582 -0.79375,1.38907 -0.124023,0.19843 -0.223242,0.29765 -0.322461,0.74414 -0.620117,0.79375 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 168.45,106.15056 h -3.6068 l -13.6652,37.2364 h -1.3208 l -13.5636,-37.2364 h -4.0132 v -1.524 h 16.8656 v 1.524 h -4.064 l 8.89,24.4856 h 0.2032 l 8.9916,-24.4856 h -5.9436 v -1.524 H 168.45 Z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="path18" />
       <path
-         d="m 92.120986,109.70937 q -0.198438,-0.0992 -0.272852,-0.44648 -1.16582,-1.14102 -2.356445,-1.36426 -0.148828,0.32246 -0.07441,0.76894 0.07441,0.42168 0.07441,0.76895 -0.124024,0 -0.248047,0 -0.124023,0 -0.248047,0 -0.272851,-0.39688 -0.148828,-0.76895 -0.02481,-0.76894 -0.04961,-1.53789 0,-0.76894 0,-1.56269 0.124023,-0.14883 0.446484,-0.22324 1.066602,-0.0248 2.604492,0.0992 1.562695,0.0992 0.545703,1.81075 -0.37207,0.29765 -1.289843,0.5705 0.173632,0.34727 1.066601,0.94258 0.892969,0.57051 -0.04961,0.94258 z m -2.728516,-2.43086 q 0.719336,0 1.314649,-0.0248 0.620117,-0.0248 1.289843,-0.29766 0.42168,-0.89297 -0.620117,-1.09141 -1.091406,0 -1.686719,0 -0.570507,0 -0.297656,1.41387 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 168.44999,104.62656 h 20.32 q 2.7432,0 5.08,0.6096 2.3876,0.5588 4.1148,1.6764 1.778,1.1176 2.7432,2.7432 1.016,1.6256 1.016,3.7084 0,3.9116 -2.9464,6.2484 -2.8956,2.286 -7.7724,2.9972 v 0.3048 q 1.7272,0.4064 3.4036,1.3716 1.6764,0.9144 2.9972,2.2352 1.3208,1.3208 2.1336,2.9972 0.8128,1.6256 0.8128,3.4544 v 2.286 q 0,3.5052 0.762,4.7752 0.762,1.27 2.7432,1.27 h 1.9304 v 1.6256 h -5.9436 q -1.9304,0 -3.556,-0.5588 -1.6256,-0.5588 -2.8956,-1.5748 -1.2192,-1.016 -1.9812,-2.4384 -0.7112,-1.4224 -0.762,-3.2004 l -0.254,-5.5372 q -0.1524,-3.4036 -1.9812,-4.9784 -1.778,-1.6256 -4.6736,-1.6256 h -2.4384 v 18.3896 h 5.9944 v 1.524 h -18.8468 v -1.524 h 4.826 v -35.2552 h -4.826 z m 12.8524,1.524 v 15.3416 h 3.9116 q 1.8288,0 3.0988,-0.3048 1.3208,-0.3048 2.1336,-1.1684 0.8636,-0.8636 1.2192,-2.3876 0.4064,-1.524 0.4064,-3.9116 0,-2.3876 -0.4064,-3.8608 -0.3556,-1.4732 -1.1176,-2.286 -0.7112,-0.8636 -1.8288,-1.1176 -1.0668,-0.3048 -2.4892,-0.3048 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="path20" />
       <path
-         d="m 95.345596,110.10625 q -0.744141,-0.17364 -0.84336,-0.27286 0,-0.96738 0.07441,-1.98437 0.07441,-1.01699 -0.07441,-1.98438 0.148828,-0.22324 0.396875,-0.42168 1.95957,0.0744 2.356445,0.0992 0.396875,0 0.818555,0.0744 0,0.47129 -0.07441,0.5705 -0.520898,-0.0992 -1.463476,-0.17363 -0.917774,-0.0744 -1.364258,0.12403 0,0.29765 0,0.59531 0,0.29765 0,0.59531 0.446484,0 1.265039,-0.0496 0.843359,-0.0496 1.265039,0.17363 0,0.12403 0,0.24805 0,0.12402 0,0.22324 -0.347266,0.22325 -1.190625,0.12403 -0.84336,-0.0992 -1.240235,-0.0992 -0.223242,0.17363 -0.223242,0.71933 0.02481,0.5209 0.198438,0.71934 0.669726,0.0248 1.364258,0.0496 0.694531,0 1.389062,0 0.148828,0.29766 0,0.62012 -0.198437,0.0248 -0.620117,0 -0.396875,-0.0248 -2.033984,0.0496 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 206.04199,104.62656 h 31.8008 v 10.16 h -2.032 q -0.0508,-1.7272 -0.6096,-3.302 -0.5588,-1.5748 -1.6256,-2.7432 -1.0668,-1.2192 -2.5908,-1.8796 -1.524,-0.7112 -3.4544,-0.7112 h -8.636 v 17.1704 q 2.4384,0 4.1656,-0.4064 1.7272,-0.4064 2.794,-1.2192 1.0668,-0.8128 1.5748,-2.032 0.508,-1.27 0.5588,-2.9464 h 2.032 v 15.24 h -2.032 q -0.1016,-3.6068 -2.1336,-5.334 -2.032,-1.7272 -6.9596,-1.778 v 16.5608 h 8.636 q 2.1336,0 3.7592,-0.8636 1.6764,-0.9144 2.8448,-2.3876 1.1684,-1.524 1.778,-3.5052 0.6096,-1.9812 0.6604,-4.1656 h 2.032 v 12.446 h -32.5628 v -1.524 h 4.826 v -35.2552 h -4.826 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="path22" />
       <path
-         d="m 100.97626,109.78378 q -0.44649,-0.14882 -1.091407,-0.29765 -0.644922,-0.17363 -0.620117,-0.76895 0.248047,-0.22324 0.595312,0.0248 0.372072,0.22324 0.620122,0.32246 0.81855,0.22324 1.81074,-0.0496 1.01699,-0.29766 0.76894,-1.43867 -0.81855,-0.74414 -2.08359,-0.37207 -1.26504,0.34726 -1.785938,-0.71934 0,-1.43867 1.984378,-1.51308 2.00918,-0.0744 1.95957,1.24023 -0.12403,0 -0.22325,0 -0.0992,0 -0.19843,0 -0.5209,-0.86816 -1.93477,-0.5457 -1.389061,0.29765 -0.818553,0.91777 0.818553,0 1.885153,-0.0248 1.0666,-0.0248 1.73633,0.64492 0.57051,1.53789 -1.33945,2.45566 -0.32246,0.0496 -0.64492,0.0744 -0.32246,0.0248 -0.62012,0.0496 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'Men In Black Credits';-inkscape-font-specification:'Men In Black Credits, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 245.10713,142.92976 h -1.524 v -10.668 h 1.5748 q 0.4572,1.8796 1.3208,3.6068 0.9144,1.7272 2.3368,3.048 1.4224,1.3208 3.4036,2.1336 1.9812,0.762 4.572,0.762 2.1336,0 3.7084,-0.508 1.6256,-0.5588 2.6924,-1.4732 1.1176,-0.9652 1.6764,-2.2352 0.5588,-1.27 0.5588,-2.7432 0,-1.9812 -0.9652,-3.1496 -0.9144,-1.2192 -2.3368,-1.9304 -1.3716,-0.7112 -3.048,-1.0668 -1.6764,-0.4064 -3.1496,-0.8128 -2.6924,-0.6604 -4.8768,-1.6256 -2.1844,-1.016 -3.7592,-2.4892 -1.5748,-1.4732 -2.4384,-3.4544 -0.8636,-1.9812 -0.8636,-4.6736 0,-2.8956 0.9652,-5.0292 1.016,-2.1844 2.6416,-3.6068 1.6764,-1.4224 3.81,-2.1336 2.1844,-0.7112 4.5212,-0.7112 2.286,0 4.064,0.6604 1.8288,0.6604 3.8608,1.9304 l 1.9812,-2.1336 h 1.5748 v 10.3632 h -1.524 q -1.4732,-4.8768 -3.9624,-6.9596 -2.4384,-2.0828 -6.096,-2.0828 -1.6764,0 -3.1496,0.4064 -1.4224,0.4064 -2.4892,1.1176 -1.0668,0.7112 -1.6764,1.778 -0.6096,1.0668 -0.6096,2.3368 0,1.6256 0.9144,2.6416 0.9652,1.016 2.3876,1.6764 1.4732,0.6604 3.1496,1.0668 1.6764,0.3556 3.2004,0.7112 2.8956,0.7112 5.08,1.778 2.2352,1.016 3.7084,2.5908 1.524,1.5748 2.286,3.7592 0.8128,2.1336 0.8128,5.08 0,5.9944 -3.2004,9.3472 -3.2004,3.3528 -9.2964,3.3528 -3.1496,0 -5.3848,-0.8636 -2.1844,-0.8636 -4.064,-2.2352 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:'Libre Bodoni';-inkscape-font-specification:'Libre Bodoni, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="path24" />
     </g>
   </g>
