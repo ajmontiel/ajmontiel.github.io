@@ -83,6 +83,10 @@ body {
     max-height: 295px;
 }
 
+.ulibro {
+    max-height: 215px;
+}
+
 @media all and (max-width: 768px) {
     .margenup {
         margin-top: 2rem;
