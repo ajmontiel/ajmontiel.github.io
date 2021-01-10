@@ -1,36 +1,30 @@
 @font-face {
-    font-family: Roboto;
-    src: url(font/roboto.woff);
+    font-family: Crimson Pro;
+    src: url(font/crimson-pro.woff);
 }
 
 @font-face {
-    font-family: Roboto;
-    src: url(font/roboto-italic.woff);
+    font-family: Crimson Pro;
+    src: url(font/crimson-pro-italic.woff);
     font-style: italic;
 }
 
 @font-face {
-    font-family: Roboto;
-    src: url(font/roboto-bold.woff);
+    font-family: Crimson Pro;
+    src: url(font/crimson-pro-500.woff);
     font-weight: bold;
 }
 
 @font-face {
-    font-family: Roboto;
-    src: url(font/roboto-bold-italic.woff);
+    font-family: Crimson Pro;
+    src: url(font/crimson-pro-500italic.woff);
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
-    font-family: Cardo;
-    src: url(font/cardo-regular.woff);
-}
-
-@font-face {
-    font-family: Cardo;
-    src: url(font/cardo-italic.woff);
-    font-style: italic;
+    font-family: Spartan;
+    src: url(font/spartan-800.woff);
 }
 
 @font-face {
@@ -41,7 +35,20 @@
 
 body {
     background-color: #f6f3e9;
-    font-family: Roboto;
+    font-family: Crimson Pro;
+    font-size: 1.25rem;
+}
+
+.titcall {
+    font-family: Spartan;
+}
+
+.peq {
+    font-size: 0.95rem;
+}
+
+.gran {
+    font-size: 1.4rem;
 }
 
 .scaps {
@@ -51,13 +58,13 @@ body {
 
 .logo {
     height: 2.5rem;
+    filter: drop-shadow(3px 3px 1px rgba(0, 0, 0, .25));
 }
 
 .slogan {
     cursor: default;
-    font-family: Cardo;
-    font-size: 1.2rem;
-    font-style: italic;
+    font-family: Spartan;
+    color: #3E352E;
 }
 
 .info {
@@ -115,8 +122,6 @@ body {
 }
 
 .articulo>p {
-    font-family: Cardo;
-    font-size: 1.2rem;
     margin-bottom: 1.3em;
 }
 
@@ -126,9 +131,6 @@ body {
     background-color: black;
 }
 
-.articulo .nota {
-    font-size: 0.9rem;
-}
 
 @media all and (min-width: 1200px) {
     .articulo {
@@ -147,27 +149,32 @@ body {
 }
 
 .pie {
-    padding: 2.5rem 0;
-    color: #999;
+    padding: 2rem 0;
     text-align: center;
-    background-color: #39322B;
-}
 
-.contacto {
-    display: inline-block;
-    text-align: left;
-    margin-bottom: 0.5rem;
 }
 
 .test {
-    background-color: #39322B;
+    background-color: #3E352E;
 }
 
 .tlibro {
-    font-size: 1.25rem;
     font-weight: bold;
+    font-size: 1.5rem;
 }
 
 a[target="_blank"]:after {
     content: url(/assets/externo.png);
+}
+
+.borderb {
+    border-bottom: double #777; 
+}
+
+a, a:link, a:visited {
+    color: inherit;
+}
+
+a.linku:link {
+  text-decoration: underline;
 }
