@@ -170,12 +170,3 @@ a[target="_blank"]:after {
 .borderb {
     border-bottom: double #777; 
 }
-
-a, a:link, a:visited {
-    color: inherit;
-}
-
-a.linku:link {
-  text-decoration: underline;
-  text-decoration-thickness: 0.1px;
-}
