@@ -104,7 +104,7 @@ body {
     }
 
     .slogan {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 
     .nav-scroller {
@@ -177,4 +177,5 @@ a, a:link, a:visited {
 
 a.linku:link {
   text-decoration: underline;
+  text-decoration-thickness: 0.5px;
 }
