@@ -100,7 +100,7 @@ body {
     }
 
     .logo {
-        height: 2.2rem;
+        height: 2.3rem;
     }
 
     .slogan {
@@ -177,5 +177,5 @@ a, a:link, a:visited {
 
 a.linku:link {
   text-decoration: underline;
-  text-decoration-thickness: 0.5px;
+  text-decoration-thickness: 0.1px;
 }
