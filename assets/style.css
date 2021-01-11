@@ -11,13 +11,13 @@
 
 @font-face {
     font-family: Crimson Pro;
-    src: url(font/crimson-pro-500.woff);
+    src: url(font/crimson-pro-600.woff);
     font-weight: bold;
 }
 
 @font-face {
     font-family: Crimson Pro;
-    src: url(font/crimson-pro-500italic.woff);
+    src: url(font/crimson-pro-600italic.woff);
     font-weight: bold;
     font-style: italic;
 }
