@@ -32,6 +32,10 @@
     src: url(font/rosarivo-regular.woff);
 }
 
+@font-face {
+    font-family: Playfair Display;
+    src: url(font/playfair-display-italic.woff);
+}
 
 body {
     background-color: #f6f3e9;
@@ -63,9 +67,7 @@ body {
 
 .slogan {
     cursor: default;
-    font-style: italic;
-    font-weight: bold;
-    color: #3E352E;
+    font-family: Playfair Display;
 }
 
 .info {
@@ -102,6 +104,10 @@ body {
 
     .logo {
         height: 2.3rem;
+    }
+
+    .slogan {
+        font-size: 0.8rem;
     }
 
     .nav-scroller {
@@ -165,5 +171,5 @@ a[target="_blank"]:after {
 }
 
 .borderb {
-    border-bottom: double #777; 
+    border-bottom: double #777;
 }
