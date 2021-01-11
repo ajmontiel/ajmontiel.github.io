@@ -63,7 +63,8 @@ body {
 
 .slogan {
     cursor: default;
-    font-family: Spartan;
+    font-style: italic;
+    font-weight: bold;
     color: #3E352E;
 }
 
@@ -101,10 +102,6 @@ body {
 
     .logo {
         height: 2.3rem;
-    }
-
-    .slogan {
-        font-size: 0.8rem;
     }
 
     .nav-scroller {
