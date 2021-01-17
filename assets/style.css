@@ -38,6 +38,10 @@ body {
     font-size: 1.25rem;
 }
 
+.headm {
+    padding: 1rem 0 1rem 0;
+}
+
 .titcall {
     font-family: Spartan;
 }
@@ -62,6 +66,10 @@ body {
 
 .slogan {
     height: 2.5rem;
+}
+
+.slop {
+    text-align: right;
 }
 
 .info {
@@ -91,14 +99,27 @@ body {
     max-height: 215px;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 767.98px) {
     .margenup {
         margin-top: 2rem;
+    }
+
+    .headm {
+        padding: 1rem 0 0 0;
+    }
+
+    .hcenter {
+        text-align: center;
+    }
+
+    .slop {
+        text-align: center;
     }
 
     .logo {
         height: 2.2rem;
     }
+
     .slogan {
         height: 1.3rem;
     }
