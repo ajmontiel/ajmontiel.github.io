@@ -32,11 +32,6 @@
     src: url(font/rosarivo-regular.woff);
 }
 
-@font-face {
-    font-family: Playfair Display;
-    src: url(font/playfair-display-italic.woff);
-}
-
 body {
     background-color: #f6f3e9;
     font-family: Crimson Pro;
@@ -66,8 +61,7 @@ body {
 }
 
 .slogan {
-    cursor: default;
-    font-family: Playfair Display;
+    height: 2.5rem;
 }
 
 .info {
@@ -103,11 +97,10 @@ body {
     }
 
     .logo {
-        height: 2.3rem;
+        height: 2.2rem;
     }
-
     .slogan {
-        font-size: 0.8rem;
+        height: 1.3rem;
     }
 
     .nav-scroller {
