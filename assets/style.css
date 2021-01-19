@@ -36,6 +36,45 @@ body {
     background-color: #f6f3e9;
     font-family: Crimson Pro;
     font-size: 1.25rem;
+    color: #333;
+}
+
+.nav {
+    list-style-type: none;
+}
+
+.nav>li {
+    display: inline;
+}
+
+.logo {
+    background-image: url(/assets/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-size: 0;
+    height: 2.5rem;
+    filter: drop-shadow(3px 3px 1px rgba(0, 0, 0, .25));
+
+}
+
+.logo2 {
+    background-image: url(/assets/logo2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0;
+    height: 2.5rem;
+    filter: drop-shadow(3px 3px 1px rgba(0, 0, 0, .25));
+
+}
+
+.cultura {
+    background-image: url(/assets/slogan.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    font-size: 0;
+    height: 2.5rem;
 }
 
 .headm {
@@ -59,19 +98,6 @@ body {
     font-family: Rosarivo;
 }
 
-.logo {
-    height: 2.5rem;
-    filter: drop-shadow(3px 3px 1px rgba(0, 0, 0, .25));
-}
-
-.slogan {
-    height: 2.5rem;
-}
-
-.slop {
-    text-align: right;
-}
-
 .info {
     background-color: #DDD;
 }
@@ -79,16 +105,6 @@ body {
 .nav-scroller {
     font-size: 1.3rem;
 
-}
-
-.nav-scroller .nav {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    white-space: nowrap;
-    -webkit-overflow-scrolling: touch;
 }
 
 .foto {
@@ -108,19 +124,13 @@ body {
         padding: 1rem 0 0 0;
     }
 
-    .hcenter {
-        text-align: center;
-    }
-
-    .slop {
-        text-align: center;
-    }
-
     .logo {
+        background-position: center;
         height: 2.2rem;
     }
 
-    .slogan {
+    .cultura {
+        background-position: center;
         height: 1.3rem;
     }
 
@@ -147,7 +157,6 @@ body {
     margin-left: 0;
     background-color: black;
 }
-
 
 @media all and (min-width: 1200px) {
     .articulo {

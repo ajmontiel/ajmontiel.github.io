@@ -16,21 +16,23 @@
 <body>
     <div class="container">
         <header class="borderb row headm">
-            <div class="col-md hcenter">
-                <a href="/"><img alt="Livres" class="logo" src="/assets/logo.png" /></a>
+            <div class="col-md">
+                <a href="/">
+                    <div class="logo">Livres</div>
+                </a>
             </div>
-            <div class="col-md slop">
-                <img class="slogan" src="/assets/slogan.png" />
+            <div class="col-md">
+                <div class="cultura">La cultura se defiende compartiéndola.</div>
             </div>
         </header>
-        <div class="nav-scroller">
-            <nav class="nav d-flex justify-content-between">
-                <a class="scaps p-2 text-dark" href="/catalogo/">Catálogo</a>
-                <a class="scaps p-2 text-dark" href="/articulos/">Artículos</a>
-                <a class="scaps p-2 text-dark" href="/nosotros/">Nosotros</a>
-                <a class="scaps p-2 text-dark" href="/donar/">Donar</a>
-            </nav>
-        </div>
+        <nav class="nav-scroller">
+            <ul class="nav d-flex justify-content-between py-1">
+                <li><a class="scaps p-2 text-dark" href="/catalogo/">Catálogo</a></li>
+                <li><a class="scaps p-2 text-dark" href="/articulos/">Artículos</a></li>
+                <li><a class="scaps p-2 text-dark" href="/nosotros/">Nosotros</a></li>
+                <li><a class="scaps p-2 text-dark" href="/donar/">Donar</a></li>
+            </ul>
+        </nav>
         <div class="jumbotron jumbotron-fluid row p-4 p-md-5 text-white align-items-center test">
             <div class="col-md-6 text-center">
                 <img class="img-fluid foto" src="/assets/adc2.png" title="El ventorillero" />
@@ -40,31 +42,33 @@
                 <p class="mt-4"><a href="/catalogo/#aut" class="text-white peq">Ir al catálogo de autores...</a></p>
             </div>
         </div>
-        <div class="row border mb-2 shadow-sm">
-            <div class="col p-4">
-                <h3 class="mb-0 titcall">En construcción</h3>
-                <div class="mb-1 text-muted">22 de oct</div>
-                <p class="card-text">Este sitio web aún no está listo, regresa pronto.</p>
-            </div>
-        </div>
     </div>
-    <main class="container mb-1 pt-4 borderb">
+    <main class="container mb-1 borderb">
         <div class="row">
             <div class="col-md-8 mb-4">
                 <div class="text-center pb-4">
-                    <img class="img-fluid foto bysha" src="/assets/ebook.jpg" />
+                    <img class="img-fluid bysha" src="/assets/ebook.jpg" />
                 </div>
-                <p>Livres es un proyecto sin fines de lucro impulsado por voluntarios que produce ediciones digitales modernas de literatura venezolana.</p>
+                <p>Livres es un proyecto sin fines de lucro que produce ediciones digitales modernas de literatura venezolana.</p>
                 <p class="pb-4">Digitalizamos ediciones en físico y usamos textos de fuentes en línea para crear libros electrónicos en formato íntegro, hermosamente presentados, libres y gratis.</p>
                 <div class="byt text-center my-4">
                     <h2><i>¿Qué hace diferente a nuestros libros electrónicos?</i></h2>
                 </div>
-
+                <h2 class="titcall text-center py-4">Tecnología de punta</h2>
+                <div class="row">
+                    <div class="col-md">
+                        <img class="img-fluid bysha" src="/assets/tocynotas.jpg" />
+                    </div>
+                    <div class="col-md margenup">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lobortis tristique pellentesque. Duis sit amet sodales est. Quisque porttitor cursus tempor. Donec aliquam cursus augue in fringilla. Suspendisse porta id mauris a consequat. Nulla ac nibh ut ligula posuere suscipit. In sed vulputate erat. Integer tristique ligula id sem consequat mollis. Nunc eleifend velit non convallis sodales. 
+                    </div>
+                </div>
             </div>
             <aside class="col-md-4">
-                <div class="p-4 mb-4 border info shadow-sm text-center">
-                    <h4 class="titcall mb-4">Último libro agregado</h4>
-                    <a href="/catalogo/teresa-de-la-parra/#ult"><img alt="Último" class="img-fluid ulibro" src="/assets/ultimo.png" /></a>
+                <div class="p-4 mb-4 border shadow-sm">
+                <h3 class="titcall text-center">En construcción</h3>
+                <div class="mb-1 text-muted">22 de oct</div>
+                <p class="mb-0">Este sitio web aún no está listo, regresa pronto.</p>
                 </div>
                 <div class="p-4 mb-4 info border shadow-sm">
                     <h4 class="titcall text-center">Política de privacidad</h4>
@@ -77,13 +81,15 @@
         <div class="mb-2">
             <a class="text-dark gran" href="#">síguenos en instagram</a>
         </div>
-        <a class="p-3 text-dark" href="/catalogo/">catálogo</a>·
-        <a class="p-3 text-dark" href="/articulos/">artículos</a>·
-        <a class="p-3 text-dark" href="/nosotros/">nosotros</a>·
-        <a class="p-3 text-dark" href="/donar/">donar</a>
+        <a class="p-2 text-dark" href="/catalogo/">catálogo</a> ·
+        <a class="p-2 text-dark" href="/articulos/">artículos</a> ·
+        <a class="p-2 text-dark" href="/nosotros/">nosotros</a> ·
+        <a class="p-2 text-dark" href="/donar/">donar</a>
         <div class="my-2 peq">Los artículos de este sitio están sujetos a una <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/ve/" target="_blank">Licencia Creative Commons Atribución-NoComercial-SinDerivadas 3.0 Venezuela</a></div>
         <div class="pt-3">
-            <a href="/"><img alt="Livres" class="logo" src="/assets/logo2.png" /></a>
+            <a href="/">
+                <div class="logo2">Livres</div>
+            </a>
         </div>
     </footer>
 </body>
