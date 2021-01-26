@@ -134,6 +134,7 @@ body {
     .cultura {
         background-position: center;
         height: 1.3rem;
+        margin: 0.2rem 0 0.2rem 0;
     }
 
     .nav-scroller {
