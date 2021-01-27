@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   viewBox="0 0 98.516548 98.516548"
+   fill="#303944"
+   id="svg8"
+   sodipodi:docname="no-copyright.svg"
+   width="98.516548"
+   height="98.516548"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview10"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.9842282"
+     inkscape:cx="-15.425401"
+     inkscape:cy="104.79009"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g842"
+     transform="scale(0.50263546)">
+    <path
+       d="M 98,0 A 98,98 0 1 0 98,196 98,98 0 0 0 98,0 Z m 0,20 a 78,78 0 1 1 0,156 78,78 0 0 1 0,-156 z"
+       id="path2" />
+    <path
+       d="m 98,43 a 55,55 0 0 0 -47.8,82.3 l 19,-19 a 30,30 0 0 1 37.1,-37.1 l 19,-19 C 117.3,45.7 107.9,43 98,43 Z M 145.8,70.8 131.4,85 h 20 c -1.3,-5 -3.2,-9.8 -5.7,-14.3 z M 125.5,110 a 30,30 0 0 1 -35.8,16.8 l -19,19 a 55,55 0 0 0 81,-35.8 z"
+       id="path4" />
+    <path
+       d="m 149.3,29.3 17.5,17.5 -120,120 -17.6,-17.5 z"
+       id="path6" />
+  </g>
+</svg>
