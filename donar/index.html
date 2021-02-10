@@ -54,7 +54,23 @@
                     </ul>
                     <p>Tu contribución apoyará la divulgación y defensa de la cultura literaria venezolana. ¡Gracias!</p>
                     <h3 class="titcall py-4">Donar a través de PayPal</h3>
-                    <p>Puedes donar con PayPal visitando <a href="https://paypal.me/proyectolivres">paypal.me/proyectolivres</a> o enviando un pago al correo <b>livres@tuta.io</b></p>
+                    <div class="ml-5">
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_xclick">
+                            <input type="hidden" name="business" value="livres@tuta.io">
+                            <input type="hidden" name="lc" value="US">
+                            <input type="hidden" name="item_name" value="Donar al proyecto Livres">
+                            <input type="hidden" name="button_subtype" value="services">
+                            <input type="hidden" name="no_note" value="1">
+                            <input type="hidden" name="no_shipping" value="1">
+                            <input type="hidden" name="currency_code" value="USD">
+                            <input type="hidden" name="tax_rate" value="0.000">
+                            <input type="hidden" name="shipping" value="0.00">
+                            <input type="hidden" name="bn" value="PP-BuyNowBF:btn_paynowCC_LG.gif:NonHosted">
+                            <input type="image" src="https://www.paypalobjects.com/es_XC/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                    </div>
                     <h3 class="titcall py-4" id="bs">Donar a cuenta bancaria venezolana</h3>
                     <p>Puedes donar en bolívares soberanos a la siguiente cuenta bancaria:</p>
                     <ul class="list-unstyled font-weight-bold ml-5">
