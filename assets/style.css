@@ -168,6 +168,7 @@ body {
     width: 50%;
     margin-left: 0;
     background-color: black;
+    margin-top: 5rem;
 }
 
 @media all and (min-width: 1200px) {
