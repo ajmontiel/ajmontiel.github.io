@@ -1,30 +1,6 @@
 @font-face {
-    font-family: Crimson Pro;
-    src: url(font/crimson-pro.woff);
-}
-
-@font-face {
-    font-family: Crimson Pro;
-    src: url(font/crimson-pro-italic.woff);
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Crimson Pro;
-    src: url(font/crimson-pro-600.woff);
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: Crimson Pro;
-    src: url(font/crimson-pro-600italic.woff);
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
     font-family: Spartan;
-    src: url(font/spartan-800.woff);
+    src: url(font/refrigerator.woff);
 }
 
 @font-face {
@@ -32,11 +8,21 @@
     src: url(font/rosarivo-regular.woff);
 }
 
+@font-face {
+    font-family: Garamond;
+    src: url(font/eb-garamond.woff);
+}
+
+@font-face {
+    font-family: Garamond;
+    src: url(font/eb-garamond-italic.woff);
+    font-style: italic;
+}
+
 body {
-    background-color: #f6f3e9;
-    font-family: Crimson Pro;
-    font-size: 1.25rem;
-    color: #333;
+    font-family: Garamond;
+    font-size: 1.4rem;
+    color: black;
 }
 
 .nav {
@@ -74,14 +60,15 @@ body {
 
 .titcall {
     font-family: Spartan;
+    font-size: 2.2rem;
 }
 
 .peq {
-    font-size: 0.95rem;
+    font-size: 1.1rem;
 }
 
 .gran {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
 }
 
 .scaps {
@@ -150,7 +137,7 @@ body {
 }
 
 .articulo>p {
-    margin-bottom: 1.3em;
+    margin-bottom: 1.35em;
 }
 
 .lnota {
@@ -163,7 +150,7 @@ body {
 @media all and (min-width: 1200px) {
     .articulo {
         margin-left: 3.5em;
-        margin-right: 7.6em;
+        margin-right: 3em;
     }
 
     .mleft {
@@ -184,11 +171,14 @@ body {
 
 .test {
     background-color: #3E352E;
+
 }
 
 .tlibro {
-    font-weight: bold;
+    font-family: Spartan;
+    font-size: 1.8rem;
     margin-bottom: 1rem;
+    margin-top: 2.5rem;
 }
 
 a[target="_blank"]:after {
@@ -211,4 +201,9 @@ a[target="_blank"]:after {
     border-top: double #777;
     border-bottom: double #777;
     padding: 1rem 0 1rem 0;
+}
+
+dt {
+    font-family: Spartan;
+    font-weight: normal;
 }
