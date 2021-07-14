@@ -19,6 +19,11 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: Advent;
+    src: url(font/advent-pro.woff);
+}
+
 body {
     font-family: Garamond;
     font-size: 1.4rem;
@@ -37,7 +42,7 @@ body {
 }
 
 .logo {
-    background-image: url(/assets/logo.png);
+    background-image: url(/assets/logo2.png);
     background-size: contain;
     background-repeat: no-repeat;
     font-size: 0;
@@ -58,9 +63,35 @@ body {
     padding: 1rem 0 1rem 0;
 }
 
+.scaps {
+    font-variant: small-caps;
+    font-family: Rosarivo;
+}
+
+.info {
+    background-color: #DDD;
+}
+
+.nav-scroller {
+    font-size: 1.3rem;
+
+}
+
+.tlibro {
+    font-family: Spartan;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    margin-top: 2.5rem;
+}
+
 .titcall {
     font-family: Spartan;
     font-size: 2.2rem;
+}
+
+.titcall2 {
+    font-family: Advent;
+    font-size: 2rem;
 }
 
 .refri {
@@ -74,20 +105,6 @@ body {
 
 .gran {
     font-size: 1.5rem;
-}
-
-.scaps {
-    font-variant: small-caps;
-    font-family: Rosarivo;
-}
-
-.info {
-    background-color: #DDD;
-}
-
-.nav-scroller {
-    font-size: 1.3rem;
-
 }
 
 .foto {
@@ -127,10 +144,6 @@ body {
         margin: 0.2rem 0 0.2rem 0;
     }
 
-    .nav-scroller {
-        font-size: 1.1rem;
-    }
-
     .foto {
         max-height: 215px;
     }
@@ -139,10 +152,44 @@ body {
         text-align: center;
     }
 
+    body {
+        font-size: 1.25rem;
+    }
+
+    .nav-scroller {
+        font-size: 1.1rem;
+    }
+
+    .tlibro {
+        font-size: 1.6rem;
+
+    }
+
+    .titcall {
+        font-size: 2rem;
+    }
+
+    .titcall2 {
+        font-size: 1.8rem;
+    }
+
+    .refri {
+        font-size: 1.6rem;
+    }
+
+    .peq {
+        font-size: 1rem;
+    }
+
+    .gran {
+        font-size: 1.3rem;
+    }
+
+
 }
 
 .articulo>p {
-    margin-bottom: 1.35em;
+    margin-bottom: 1.3em;
 }
 
 .lnota {
@@ -154,6 +201,7 @@ body {
 
 @media all and (min-width: 1200px) {
     .articulo {
+        margin-top: 1.5em;
         margin-left: 3.5em;
         margin-right: 3em;
     }
@@ -161,11 +209,6 @@ body {
     .mleft {
         margin-left: 3.5em;
     }
-}
-
-.articulo-title {
-    margin-bottom: 0.25rem;
-
 }
 
 .pie {
@@ -177,13 +220,6 @@ body {
 .test {
     background-color: #3E352E;
 
-}
-
-.tlibro {
-    font-family: Spartan;
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-    margin-top: 2.5rem;
 }
 
 a[target="_blank"]:after {
