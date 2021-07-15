@@ -136,6 +136,7 @@ body {
     .logo {
         background-position: center;
         height: 2.2rem;
+        margin-top: -0.5rem;
     }
 
     .cultura {
